@@ -2,8 +2,14 @@
 
 # 🛒 Retail Sales Insight Dashboard
 
-> End-to-end data analytics pipeline — from raw CSV ingestion to an interactive business insights dashboard.
-> Built with Python, SQLite, pandas, Streamlit, and Plotly. Runs fully locally with a single command.
+> End-to-end data analytics pipeline — from raw CSV ingestion to an interactive
+> business insights dashboard. Built with Python, SQLite, pandas, Streamlit, and Plotly.
+> Runs fully locally with a single command.
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.35-FF4B4B?logo=streamlit&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-3-003B57?logo=sqlite&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ![Dashboard Preview](screenshots/Top_prod_REVN.png)
 
